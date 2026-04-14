@@ -1,0 +1,13 @@
+# Definindo as bibliotecas e versões comuns para projetos de Data Science e Scraping em 2026
+requirements = [
+    "pandas==2.2.2",
+    "numpy==1.26.4",
+    "matplotlib==3.9.0",
+    "requests==2.32.3",
+    "beautifulsoup4==4.12.3",
+    "ipykernel"  # Necessário para rodar notebooks no VS Code/Jupyter
+]
+
+file_path = "requirements.txt"
+with open(file_path, "w") as f:
+    f.write("\n".join(requirements))
