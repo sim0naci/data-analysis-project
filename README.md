@@ -47,6 +47,6 @@ O dashboard final gerado no projeto foca em três pilares:
 ![alt text](image.png)
 
 
-Gabriel Simonaci [LinkedIn](www.linkedin.com/in/gabriel-simonaci-volpini/) | [GitHub](https://github.com/sim0naci)
+Gabriel Simonaci [LinkedIn](https://www.linkedin.com/in/gabriel-simonaci-volpini/) | [GitHub](https://github.com/sim0naci)
 
 
